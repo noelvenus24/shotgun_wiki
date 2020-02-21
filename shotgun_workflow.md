@@ -37,3 +37,15 @@
 ### 連結各個Shot內的Assets
 ![05](https://user-images.githubusercontent.com/42924265/75036822-ad517300-54ed-11ea-8a40-fb0d8aa9ad2f.gif)
 
+---
+
+### Project Timeline
+![06](https://user-images.githubusercontent.com/42924265/75037124-6a43cf80-54ee-11ea-9cdf-3865b9668698.gif)
+
+---
+### Crew Planning
+![07](https://user-images.githubusercontent.com/42924265/75037475-34ebb180-54ef-11ea-8cec-a01948cb490d.gif)
+
+---
+### Chart Page
+![08](https://user-images.githubusercontent.com/42924265/75037922-38cc0380-54f0-11ea-83f0-0a552339a89e.gif)
