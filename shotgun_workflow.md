@@ -39,6 +39,11 @@
 
 ---
 
+### 指派工作 Assigned To
+![09](https://user-images.githubusercontent.com/42924265/75038624-afb5cc00-54f1-11ea-94d5-af491248e8a7.gif)
+
+---
+
 ### Project Timeline
 ![06](https://user-images.githubusercontent.com/42924265/75037124-6a43cf80-54ee-11ea-9cdf-3865b9668698.gif)
 
