@@ -32,4 +32,8 @@
 * 或由 **[ More  / Import Assets ]** 從Excel表格建立。Excel表格內需有命名為"Asset Name"的欄位，在其下輸入各個Asset Name名稱，建議添加名為"Type"的欄位，在其下輸入各Asset對應的Type種類名稱。然後選擇要傳送到Shotgun的欄位按下 Ctrl + C 複製(注意不要選擇到其他不相關的欄位，像是 id 等，才不會出錯)，再到剛剛import的頁面按 Ctrl + V 貼上 > [ Continue ] > 勾選 "Asset Name" Use as id  > [ Continue ] > Add thumbnails 加入縮圖(縮圖檔案名稱必須與Asset名稱相同才能配對!!!)  >  [ Finish and Import ]
 * 之後若有其他欄位資訊需要上傳也可以使用  **[ More  / Import Assets ]** 從Excel表格複製需要的欄位資訊貼上即可(務必一定要複製"Asset Name"的欄位 + 其他需要的欄位 )，若是已經有建立好的資訊，再一次的上傳就會更新成最新的資料。
 
+---
+
+### 連結各個Shot內的Assets
+![05](https://user-images.githubusercontent.com/42924265/75036822-ad517300-54ed-11ea-8a40-fb0d8aa9ad2f.gif)
 
