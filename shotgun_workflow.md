@@ -36,6 +36,9 @@
 
 ### 連結各個Shot內的Assets
 ![05](https://user-images.githubusercontent.com/42924265/75036822-ad517300-54ed-11ea-8a40-fb0d8aa9ad2f.gif)
+* 到目前專案的Shots頁面，於要編輯的卡號的Assets欄位點選編輯，輸入關聯的Asset名稱即可。可以一次選擇多筆欄位編輯填入相同內容。
+* 也可以從由 **[ More  / Import Shots ]** 從Excel表格建立。Excel表格內需有命名為"Shot Code"的欄位，在其下輸入Shot Code序列名稱，再加入命名為"Assets"的欄位，在其下輸入各卡對應的Asset名稱（限定已經在專案Assets頁面建立好的Asset，才能找到"相同名稱"的asset）,然後選擇要傳送到Shotgun的欄位按下 Ctrl + C 複製(注意不要選擇到其他不相關的欄位，像是 id 等，才不會出錯)，再到剛剛import的頁面按 Ctrl + V 貼上 > [ Continue ] > 勾選 "Shot Code" Use as id  > [ Continue ] >  [ Finish and Import ]
+* 之後若有其他欄位資訊需要上傳也可以使用 **[ More  / Import Shots ]** 從Excel表格複製需要的欄位資訊貼上即可(務必一定要複製"Shot Code"的欄位 + 其他需要的欄位 )，若是已經有建立好的資訊，再一次的上傳就會更新成最新的資料。
 
 ---
 
