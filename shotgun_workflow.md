@@ -39,7 +39,7 @@
 
 ---
 
-### 指派工作 Assigned To
+### 指派工作 Assigned To / 多筆欄位一同修改 Edit Selected / 自訂篩選條件 Filter
 ![09](https://user-images.githubusercontent.com/42924265/75038624-afb5cc00-54f1-11ea-94d5-af491248e8a7.gif)
 
 ---
