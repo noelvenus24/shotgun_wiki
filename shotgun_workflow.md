@@ -44,7 +44,8 @@
 ### 指派工作 Assigned To / 多筆欄位一同修改 Edit Selected / 自訂篩選條件 Filter
 ![09](https://user-images.githubusercontent.com/42924265/75038624-afb5cc00-54f1-11ea-94d5-af491248e8a7.gif)
 
-* 到目前專案的Shots頁面，於要指定工作的 **Assigned To** 欄位點選編輯，輸入關聯的人員名稱即可。可以一次選擇多筆欄位編輯填入相同內容。
+* 到目前專案的Shots頁面，於要指定工作的 **Assigned To** 欄位點選編輯，輸入關聯的人員名稱即可。
+* 可以一次選擇多筆欄位編輯 **[ More  / Edit Selected ]** ，在想編輯的欄位填入"相同內容"。
 * Shotgun幾乎 **「所有頁面」都有Filter** ，可以自訂需要的篩選條件，讓頁面顯示想要看的資訊，若目前頁面有篩選條件情況下， **篩選的「漏斗圖示」會呈現藍色**，若要清除篩選點選 **[ Clear All Filters]**。
 
 ---
